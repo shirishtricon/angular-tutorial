@@ -2,3 +2,6 @@ AngularBasics/node_modules/
 AngularComponent/node_modules/
 custom-binding/node_modules/
 template-reference/node_modules/
+child-view/node_modules
+view-encapsulation/node_modules
+ng-content/node_modules
