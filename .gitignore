@@ -5,3 +5,8 @@ template-reference/node_modules/
 child-view/node_modules
 view-encapsulation/node_modules
 ng-content/node_modules
+lifecycle-hook/node_modules
+content-child/node_modules
+custom-directives/node_modules
+directive-example/node_modules
+subscribe-service/node_modules
