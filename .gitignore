@@ -10,3 +10,5 @@ content-child/node_modules
 custom-directives/node_modules
 directive-example/node_modules
 subscribe-service/node_modules
+user-service/node_modules
+user-detail-service/node_modules

@@ -2,20 +2,19 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { AngularComponent } from './angular/angular.component';
-import { JavascriptComponent } from './javascript/javascript.component';
-import { EnrollService } from './Services/enroll.servie';
+import { AllUsersComponent } from './all-users/all-users.component';
+import { UserDetailComponent } from './user-detail/user-detail.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AngularComponent,
-    JavascriptComponent
+    AllUsersComponent,
+    UserDetailComponent
   ],
   imports: [
     BrowserModule
   ],
-  providers: [EnrollService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
